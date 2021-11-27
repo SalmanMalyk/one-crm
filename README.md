@@ -1,6 +1,6 @@
 <h1 align="center">Onepi Code</h1>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
 </p>
 
